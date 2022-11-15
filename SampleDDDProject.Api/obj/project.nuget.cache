@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbPxLlU9qWtBC2AHppbewU7dFnPMXRLQflgNeoS3FnhUGUXyrsRxde8Hy7WWcR6t7IROpqECrHoX8IkOOYzQRA==",
+  "success": true,
+  "projectFilePath": "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\SampleDDDProject.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serka\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

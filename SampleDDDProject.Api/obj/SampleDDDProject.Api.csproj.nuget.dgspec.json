@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\SampleDDDProject.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\SampleDDDProject.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\SampleDDDProject.Api.csproj",
+        "projectName": "SampleDDDProject.Api",
+        "projectPath": "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\SampleDDDProject.Api.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\my-github\\sample-dotnet-core-with-ddd\\SampleDDDProject.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

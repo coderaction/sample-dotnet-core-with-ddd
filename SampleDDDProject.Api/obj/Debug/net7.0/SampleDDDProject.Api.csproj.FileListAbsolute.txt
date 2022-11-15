@@ -1,0 +1,15 @@
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\bin\Debug\net7.0\SampleDDDProject.Api.exe
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\bin\Debug\net7.0\SampleDDDProject.Api.deps.json
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\bin\Debug\net7.0\SampleDDDProject.Api.runtimeconfig.json
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\bin\Debug\net7.0\SampleDDDProject.Api.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\bin\Debug\net7.0\SampleDDDProject.Api.pdb
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.csproj.AssemblyReference.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.AssemblyInfoInputs.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.AssemblyInfo.cs
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.csproj.CoreCompileInputs.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\refint\SampleDDDProject.Api.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.pdb
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\SampleDDDProject.Api.genruntimeconfig.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Api\obj\Debug\net7.0\ref\SampleDDDProject.Api.dll
