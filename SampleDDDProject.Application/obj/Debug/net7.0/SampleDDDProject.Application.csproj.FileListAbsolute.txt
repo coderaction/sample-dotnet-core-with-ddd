@@ -1,0 +1,15 @@
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\bin\Debug\net7.0\SampleDDDProject.Application.exe
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\bin\Debug\net7.0\SampleDDDProject.Application.deps.json
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\bin\Debug\net7.0\SampleDDDProject.Application.runtimeconfig.json
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\bin\Debug\net7.0\SampleDDDProject.Application.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\bin\Debug\net7.0\SampleDDDProject.Application.pdb
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.csproj.AssemblyReference.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.AssemblyInfoInputs.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.AssemblyInfo.cs
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.csproj.CoreCompileInputs.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\refint\SampleDDDProject.Application.dll
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.pdb
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\SampleDDDProject.Application.genruntimeconfig.cache
+C:\git\my-github\sample-dotnet-core-with-ddd\SampleDDDProject.Application\obj\Debug\net7.0\ref\SampleDDDProject.Application.dll
